@@ -105,7 +105,7 @@ fun MainScreen(modifier: Modifier = Modifier) {
 
             }
         }) {
-            Text(text = "Download Now")
+            /*Text(text = "Download Now")*/
         }
 
     }
